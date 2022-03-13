@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "reactjshotelbookinga",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\karab\\Downloads\\think-outof-box-master\\think-outof-box-master\\Reactjs Hotel Booking App\\amplify\\backend\\api\\reactjshotelbookinga\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}

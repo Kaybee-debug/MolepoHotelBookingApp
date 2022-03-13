@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactjshotelbookinga-dev-123802-authRole",
+      "UnauthRoleArn": "arn:aws:iam::858055129380:role/amplify-reactjshotelbookinga-dev-123802-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::858055129380:role/amplify-reactjshotelbookinga-dev-123802-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-reactjshotelbookinga-dev-123802-deployment",
+      "UnauthRoleName": "amplify-reactjshotelbookinga-dev-123802-unauthRole",
+      "StackName": "amplify-reactjshotelbookinga-dev-123802",
+      "StackId": "arn:aws:cloudformation:us-east-2:858055129380:stack/amplify-reactjshotelbookinga-dev-123802/82ef3320-a1f0-11ec-8cc6-0a10c8548cc4",
+      "AmplifyAppId": "d3j6v3m3lnir64"
+    },
+    "categories": {
+      "auth": {
+        "reactjshotelbookinga032c5a61": {}
+      }
+    }
+  }
+}
